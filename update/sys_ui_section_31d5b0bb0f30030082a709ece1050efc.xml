@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Resolution" section_id="31d5b0bb0f30030082a709ece1050efc" sys_domain="global" table="x_148255_cst_issue_cst_issue" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolution</element>
+            <position>0</position>
+            <sys_created_by>pholikatti</sys_created_by>
+            <sys_created_on>2017-09-01 04:33:24</sys_created_on>
+            <sys_id>82d5f0bb0f30030082a709ece1050eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution" display_value="Resolution" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">31d5b0bb0f30030082a709ece1050efc</sys_ui_section>
+            <sys_updated_by>pholikatti</sys_updated_by>
+            <sys_updated_on>2017-09-01 04:33:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Resolution</caption>
+            <header>false</header>
+            <name>x_148255_cst_issue_cst_issue</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>pholikatti</sys_created_by>
+            <sys_created_on>2017-09-01 04:33:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>31d5b0bb0f30030082a709ece1050efc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Resolution</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CST Issue Tracker" source="x_148255_cst_issue">eb7e24370f30030082a709ece1050e75</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CST Issue Tracker">eb7e24370f30030082a709ece1050e75</sys_scope>
+            <sys_update_name>sys_ui_section_31d5b0bb0f30030082a709ece1050efc</sys_update_name>
+            <sys_updated_by>pholikatti</sys_updated_by>
+            <sys_updated_on>2017-09-01 04:33:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

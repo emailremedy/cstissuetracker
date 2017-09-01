@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="CST Issue" max_length="40" name="x_148255_cst_issue_cst_issue" type="collection">
+    <element audit="true" extends="task" label="CST Issue" max_length="40" name="x_148255_cst_issue_cst_issue" type="collection">
         <element choice="1" label="Application" max_length="40" name="application" type="choice">
-            <choice/>
+            <choice>
+                <element label="Incident Management" sequence="0" value="1"/>
+                <element label="Problem Management" sequence="1" value="2"/>
+                <element label="Change Management" sequence="2" value="3"/>
+                <element label="Foundation Data" sequence="3" value="4"/>
+                <element label="SLA" sequence="4" value="5"/>
+                <element label="Knowledge Management" sequence="5" value="6"/>
+                <element label="System Configuration" sequence="6" value="7"/>
+                <element label="CMDB" sequence="7" value="8"/>
+                <element label="Asset" sequence="8" value="9"/>
+                <element label="Integration" sequence="9" value="10"/>
+                <element label="Other" sequence="10" value="other"/>
+            </choice>
         </element>
         <element label="Reported  By" max_length="32" name="reported_by" reference="sys_user" type="reference"/>
         <element label="Resolution" max_length="4000" name="resolution" type="string"/>
         <element choice="1" label="Type" max_length="40" name="type" type="choice">
-            <choice/>
+            <choice>
+                <element label="Enhancement" sequence="0" value="enhancement"/>
+                <element label="Defect" sequence="1" value="defect"/>
+            </choice>
         </element>
+        <element label="Alternate Assignee" max_length="32" name="u_alter_assignee" reference="sys_user" type="reference"/>
+        <element label="Issue Reported Date" max_length="40" name="u_ir_date" type="glide_date_time"/>
     </element>
 </database>
