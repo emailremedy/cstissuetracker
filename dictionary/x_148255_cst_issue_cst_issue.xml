@@ -16,8 +16,8 @@
                 <element label="Other" sequence="10" value="other"/>
             </choice>
         </element>
-        <element label="Reported  By" max_length="32" name="reported_by" reference="sys_user" type="reference"/>
-        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Reported Date" max_length="40" name="reported_date" type="glide_date_time" use_dynamic_default="true"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="bdcb83a85f220100a9ad2572f2b4773d" label="Reported  By" max_length="32" name="reported_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Reported Date" max_length="40" name="reported_date" read_only="true" type="glide_date_time" use_dynamic_default="true"/>
         <element label="Resolution" max_length="4000" name="resolution" type="string"/>
         <element choice="1" label="Type" max_length="40" name="type" type="choice">
             <choice>
@@ -25,7 +25,9 @@
                 <element label="Defect" sequence="1" value="defect"/>
             </choice>
         </element>
-        <element label="Alternate Assignee" max_length="32" name="u_alter_assignee" reference="sys_user" type="reference"/>
+        <element label="Alternate Assignee" max_length="32" name="u_alter_assignee" reference="sys_user" reference_qual="roles=x_148255_cst_issue.cstcreate^roles=x_148255_cst_issue.cstwrite^roles=x_148255_cst_issue.user^EQ" reference_qual_condition="roles=x_148255_cst_issue.cstcreate^roles=x_148255_cst_issue.cstwrite^roles=x_148255_cst_issue.user^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Detailed Description" max_length="4000" name="u_detailed_description" type="string"/>
         <element label="Issue Reported Date" max_length="40" name="u_ir_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Summary" mandatory="true" max_length="160" name="u_short_summary" type="string"/>
     </element>
 </database>
