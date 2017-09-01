@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>resolution</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>pholikatti</sys_created_by>
+        <sys_created_on>2017-09-01 05:09:02</sys_created_on>
+        <sys_id>10fd38bf0f30030082a709ece1050e39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>resolution</sys_name>
+        <sys_package display_value="CST Issue Tracker" source="x_148255_cst_issue">eb7e24370f30030082a709ece1050e75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CST Issue Tracker">eb7e24370f30030082a709ece1050e75</sys_scope>
+        <sys_update_name>sys_ui_policy_action_10fd38bf0f30030082a709ece1050e39</sys_update_name>
+        <sys_updated_by>pholikatti</sys_updated_by>
+        <sys_updated_on>2017-09-01 05:09:02</sys_updated_on>
+        <table>x_148255_cst_issue_cst_issue</table>
+        <ui_policy display_value="When State is resolved, resolution field is mandatory">4fbd74bf0f30030082a709ece1050e82</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

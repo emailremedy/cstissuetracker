@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 04:56:13</sys_created_on>
-            <sys_id>901bb83f0f30030082a709ece1050ea3</sys_id>
+            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
+            <sys_id>208ebcbf0f30030082a709ece1050e46</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
             <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:56:13</sys_updated_on>
+            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>reported_by</element>
             <position>1</position>
             <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 04:56:13</sys_created_on>
-            <sys_id>141bb83f0f30030082a709ece1050ea3</sys_id>
+            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
+            <sys_id>a08ebcbf0f30030082a709ece1050e46</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
             <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:56:13</sys_updated_on>
+            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>application</element>
             <position>2</position>
             <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 04:56:13</sys_created_on>
-            <sys_id>941bb83f0f30030082a709ece1050ea3</sys_id>
+            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
+            <sys_id>248ebcbf0f30030082a709ece1050e46</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
             <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:56:13</sys_updated_on>
+            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>priority</element>
             <position>3</position>
             <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 04:56:13</sys_created_on>
-            <sys_id>181bb83f0f30030082a709ece1050ea3</sys_id>
+            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
+            <sys_id>a48ebcbf0f30030082a709ece1050e46</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
             <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:56:13</sys_updated_on>
+            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 04:56:13</sys_created_on>
-            <sys_id>981bb83f0f30030082a709ece1050ea3</sys_id>
+            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
+            <sys_id>288ebcbf0f30030082a709ece1050e46</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
             <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:56:13</sys_updated_on>
+            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>assigned_to</element>
             <position>5</position>
             <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 04:56:13</sys_created_on>
-            <sys_id>1c1bb83f0f30030082a709ece1050ea3</sys_id>
+            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
+            <sys_id>a88ebcbf0f30030082a709ece1050e46</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
             <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:56:13</sys_updated_on>
+            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>u_alter_assignee</element>
             <position>6</position>
             <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 04:56:13</sys_created_on>
-            <sys_id>9c1bb83f0f30030082a709ece1050ea3</sys_id>
+            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
+            <sys_id>2c8ebcbf0f30030082a709ece1050e46</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
             <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:56:13</sys_updated_on>
+            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>state</element>
             <position>7</position>
             <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 04:56:13</sys_created_on>
-            <sys_id>101bb83f0f30030082a709ece1050ea4</sys_id>
+            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
+            <sys_id>ac8ebcbf0f30030082a709ece1050e46</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
             <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:56:13</sys_updated_on>
+            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,27 @@
             <element>type</element>
             <position>8</position>
             <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 04:56:13</sys_created_on>
-            <sys_id>901bb83f0f30030082a709ece1050ea4</sys_id>
+            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
+            <sys_id>208ebcbf0f30030082a709ece1050e47</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
             <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:56:13</sys_updated_on>
+            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reported_date</element>
+            <position>9</position>
+            <sys_created_by>pholikatti</sys_created_by>
+            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
+            <sys_id>a08ebcbf0f30030082a709ece1050e47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
+            <sys_updated_by>pholikatti</sys_updated_by>
+            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
