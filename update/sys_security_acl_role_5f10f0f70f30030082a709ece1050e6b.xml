@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>pholikatti</sys_created_by>
+        <sys_created_on>2017-09-01 04:08:21</sys_created_on>
+        <sys_id>5f10f0f70f30030082a709ece1050e6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_148255_cst_issue_cst_issue.x_148255_cst_issue.user</sys_name>
+        <sys_package display_value="CST Issue Tracker" source="x_148255_cst_issue">eb7e24370f30030082a709ece1050e75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CST Issue Tracker">eb7e24370f30030082a709ece1050e75</sys_scope>
+        <sys_security_acl display_value="x_148255_cst_issue_cst_issue">5710f0f70f30030082a709ece1050e69</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5f10f0f70f30030082a709ece1050e6b</sys_update_name>
+        <sys_updated_by>pholikatti</sys_updated_by>
+        <sys_updated_on>2017-09-01 04:08:21</sys_updated_on>
+        <sys_user_role display_value="x_148255_cst_issue.user" name="x_148255_cst_issue.user">bf7e24b70f30030082a709ece1050ec7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
