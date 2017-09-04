@@ -12,16 +12,16 @@
         <sys_created_by>pholikatti</sys_created_by>
         <sys_created_on>2017-09-01 09:21:16</sys_created_on>
         <sys_id>4bb7313f0fb0030082a709ece1050e2d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>glide.ui.x_148255_cst_issue_cst_issue_activity.fields</sys_name>
         <sys_package display_value="CST Issue Tracker" source="x_148255_cst_issue">eb7e24370f30030082a709ece1050e75</sys_package>
         <sys_policy/>
         <sys_scope display_value="CST Issue Tracker">eb7e24370f30030082a709ece1050e75</sys_scope>
         <sys_update_name>sys_properties_4bb7313f0fb0030082a709ece1050e2d</sys_update_name>
         <sys_updated_by>pholikatti</sys_updated_by>
-        <sys_updated_on>2017-09-01 09:21:41</sys_updated_on>
+        <sys_updated_on>2017-09-01 15:52:43</sys_updated_on>
         <type>string</type>
-        <value>assigned_to,cmdb_ci,state,impact,priority,opened_by,work_notes,comments,*Attachments*,u_short_summary,u_detailed_description</value>
+        <value>assigned_to,cmdb_ci,state,impact,priority,opened_by,work_notes,comments,*Attachments*,description,short_description,*Email*</value>
         <write_roles/>
     </sys_properties>
     <sys_translated_text action="delete_multiple" query="documentkey=4bb7313f0fb0030082a709ece1050e2d"/>

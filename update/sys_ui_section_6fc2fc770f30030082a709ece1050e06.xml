@@ -4,140 +4,168 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
-            <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
-            <sys_id>208ebcbf0f30030082a709ece1050e46</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-04 10:38:54</sys_created_on>
+            <sys_id>d54661f00f01030082a709ece1050e6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-04 10:38:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>reported_by</element>
             <position>1</position>
-            <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
-            <sys_id>a08ebcbf0f30030082a709ece1050e46</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-04 10:38:54</sys_created_on>
+            <sys_id>594661f00f01030082a709ece1050e6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-04 10:38:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_submitted_by</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-04 10:38:54</sys_created_on>
+            <sys_id>d94661f00f01030082a709ece1050e6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-04 10:38:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>application</element>
-            <position>2</position>
-            <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
-            <sys_id>248ebcbf0f30030082a709ece1050e46</sys_id>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-04 10:38:54</sys_created_on>
+            <sys_id>5d4661f00f01030082a709ece1050e6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-04 10:38:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
-            <position>3</position>
-            <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
-            <sys_id>a48ebcbf0f30030082a709ece1050e46</sys_id>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-04 10:38:54</sys_created_on>
+            <sys_id>dd4661f00f01030082a709ece1050e6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-04 10:38:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
-            <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
-            <sys_id>288ebcbf0f30030082a709ece1050e46</sys_id>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-04 10:38:54</sys_created_on>
+            <sys_id>514661f00f01030082a709ece1050e6e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-04 10:38:54</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
-            <position>5</position>
-            <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
-            <sys_id>a88ebcbf0f30030082a709ece1050e46</sys_id>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-04 10:38:54</sys_created_on>
+            <sys_id>d14661f00f01030082a709ece1050e6e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-04 10:38:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_alter_assignee</element>
-            <position>6</position>
-            <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
-            <sys_id>2c8ebcbf0f30030082a709ece1050e46</sys_id>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-04 10:38:54</sys_created_on>
+            <sys_id>554661f00f01030082a709ece1050e6e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-04 10:38:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>7</position>
-            <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
-            <sys_id>ac8ebcbf0f30030082a709ece1050e46</sys_id>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-04 10:38:54</sys_created_on>
+            <sys_id>d54661f00f01030082a709ece1050e6e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-04 10:38:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_defect_fixed</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-04 10:38:54</sys_created_on>
+            <sys_id>594661f00f01030082a709ece1050e6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-04 10:38:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>type</element>
-            <position>8</position>
-            <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
-            <sys_id>208ebcbf0f30030082a709ece1050e47</sys_id>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-04 10:38:54</sys_created_on>
+            <sys_id>d94661f00f01030082a709ece1050e6e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-04 10:38:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>reported_date</element>
-            <position>9</position>
-            <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 05:11:15</sys_created_on>
-            <sys_id>a08ebcbf0f30030082a709ece1050e47</sys_id>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-04 10:38:54</sys_created_on>
+            <sys_id>5d4661f00f01030082a709ece1050e6e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_148255_cst_issue_cst_issue" sys_domain="global" view="Default view">6fc2fc770f30030082a709ece1050e06</sys_ui_section>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 05:11:15</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-04 10:38:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
