@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="CST Issue" max_length="40" name="x_148255_cst_issue_cst_issue" sizeclass="9" type="collection">
+    <element audit="true" extends="task" label="CST Issue" max_length="40" name="x_148255_cst_issue_cst_issue" sizeclass="14" type="collection">
         <element choice="1" label="Application" max_length="40" name="application" type="choice">
             <choice>
                 <element label="Incident Management" sequence="0" value="1"/>
