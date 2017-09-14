@@ -16,11 +16,11 @@
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d451324c0fc9030082a709ece1050e90</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
+        <sys_name>mobile</sys_name>
+        <sys_package display_value="CST Issue Tracker" source="x_148255_cst_issue">eb7e24370f30030082a709ece1050e75</sys_package>
         <sys_policy/>
         <sys_scope display_value="CST Issue Tracker">eb7e24370f30030082a709ece1050e75</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_filter_d451324c0fc9030082a709ece1050e90</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-09-02 08:11:21</sys_updated_on>
         <table>sys_user</table>

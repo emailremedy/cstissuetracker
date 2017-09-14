@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_list parent="sys_db_object" relationship="4344f6f5bf1320001875647fcf0739ad" sys_domain="global" table="sys_dictionary" version="2" view="">
+    <sys_ui_list parent="incident" relationship="" sys_domain="global" table="task_sla" version="2" view="">
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element/>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <name>sys_dictionary</name>
-            <parent>sys_db_object</parent>
+            <name>task_sla</name>
+            <parent>incident</parent>
             <position/>
-            <relationship display_value="Table Columns">4344f6f5bf1320001875647fcf0739ad</relationship>
+            <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 04:24:44</sys_created_on>
+            <sys_created_on>2017-09-14 10:13:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>43d3b47b0f30030082a709ece1050e14</sys_id>
+            <sys_id>4050c94c0fd9030082a709ece1050ebc</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>sys_dictionary</sys_name>
-            <sys_package display_value="CST Issue Tracker" source="x_148255_cst_issue">eb7e24370f30030082a709ece1050e75</sys_package>
+            <sys_name/>
+            <sys_package/>
             <sys_policy/>
             <sys_scope display_value="CST Issue Tracker">eb7e24370f30030082a709ece1050e75</sys_scope>
-            <sys_update_name>sys_ui_list_sys_db_object_4344f6f5bf1320001875647fcf0739ad_null</sys_update_name>
+            <sys_update_name/>
             <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:24:44</sys_updated_on>
+            <sys_updated_on>2017-09-14 10:13:19</sys_updated_on>
             <sys_user display_value="Prasad Holikatti">1d2a24330f30030082a709ece1050ed3</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
