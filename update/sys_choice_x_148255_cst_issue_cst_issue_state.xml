@@ -24,6 +24,25 @@
             <dependent_value/>
             <element>state</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Retesting</label>
+            <language>en</language>
+            <name>x_148255_cst_issue_cst_issue</name>
+            <sequence>0</sequence>
+            <sys_created_by>pholikatti</sys_created_by>
+            <sys_created_on>2017-09-01 04:44:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee68f4fb0f30030082a709ece1050e24</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-05 06:56:19</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
             <inactive>false</inactive>
             <label>In Progress</label>
             <language>en</language>
@@ -71,11 +90,11 @@
             <sys_created_on>2017-09-01 04:44:37</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ee68f4fb0f30030082a709ece1050e24</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:44:37</sys_updated_on>
-            <value>4</value>
+            <sys_id>aa68f4fb0f30030082a709ece1050e26</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-05 06:56:19</sys_updated_on>
+            <value>5</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -90,11 +109,11 @@
             <sys_created_on>2017-09-01 04:44:37</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>aa68f4fb0f30030082a709ece1050e26</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:44:37</sys_updated_on>
-            <value>5</value>
+            <sys_id>6668f4fb0f30030082a709ece1050e28</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-05 06:56:19</sys_updated_on>
+            <value>6</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -105,15 +124,15 @@
             <language>en</language>
             <name>x_148255_cst_issue_cst_issue</name>
             <sequence>5</sequence>
-            <sys_created_by>pholikatti</sys_created_by>
-            <sys_created_on>2017-09-01 04:44:37</sys_created_on>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-05 06:56:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6668f4fb0f30030082a709ece1050e28</sys_id>
+            <sys_id>8f9cd8760fa1430082a709ece1050e4d</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>pholikatti</sys_updated_by>
-            <sys_updated_on>2017-09-01 04:44:37</sys_updated_on>
-            <value>6</value>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-05 06:56:19</sys_updated_on>
+            <value>7</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>

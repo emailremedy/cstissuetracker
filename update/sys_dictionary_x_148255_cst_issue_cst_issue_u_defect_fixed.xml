@@ -7,13 +7,13 @@
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>1</choice>
+        <choice>3</choice>
         <choice_field/>
         <choice_table/>
         <column_label>Defect Fixed</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>4</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -48,14 +48,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-04 10:37:40</sys_created_on>
         <sys_id>3cfe3bab0f81030082a709ece1050ed9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Defect Fixed</sys_name>
         <sys_package display_value="CST Issue Tracker" source="x_148255_cst_issue">eb7e24370f30030082a709ece1050e75</sys_package>
         <sys_policy/>
         <sys_scope display_value="CST Issue Tracker">eb7e24370f30030082a709ece1050e75</sys_scope>
         <sys_update_name>sys_dictionary_x_148255_cst_issue_cst_issue_u_defect_fixed</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-09-13 10:49:17</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-10 05:09:57</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci" label="Test_Class" max_length="40" name="x_148255_cst_issue_test_class" type="collection"/>
+</database>
